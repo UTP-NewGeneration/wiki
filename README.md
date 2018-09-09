@@ -1,2 +1,3 @@
-# wiki
-En este repositorio se creara una wiki, donde se alojaran algoritmos y distintos post acerca de programación comptetiva
+# WIKI
+
+En este repositorio se creara una wiki, donde se alojaran algoritmos y articulos acerca de programación comptetiva
