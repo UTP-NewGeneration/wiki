@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Insilico Wiki - a wiki starter for GatsbyJS]]></title><description><![CDATA[Insilico Wiki - a wiki starter for GatsbyJS.]]></description><link>https://in-silico.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 25 Nov 2018 19:39:51 GMT</lastBuildDate><item><title><![CDATA[Guia Google]]></title><description><![CDATA[Como aplicar para obtener puestos de ingenieria de software en google Paso 1:Prepara tu curriculum Tu curriculum tiene que estar en inglés…]]></description><link>https://in-silico.github.io//guia-google/</link><guid isPermaLink="false">https://in-silico.github.io//guia-google/</guid><content:encoded>&lt;center&gt;google.com/careers&lt;/center&gt;
+&lt;center&gt;colombia.students@google.com&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Como aplicar para obtener puestos de ingenieria de software en google&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paso 1:Prepara tu curriculum&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tu curriculum tiene que estar en inglés, debe ser facil de leer y &lt;strong&gt;debe resaltar todas tus habilidades tecnicas y logros relevantes&lt;/strong&gt;. Puedes ver algunos curriculum de muestra de antiguos pasantes en &lt;a href=&quot;http://goo.gl/nuo35o&quot;&gt;http://goo.gl/nuo35o&lt;/a&gt; y resaltar tus virtudes utilizando las siguientes secciones importantes en tu curriculum.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Educación:&lt;/strong&gt; Universidad, especialización, fecha de graduación esperada (mm/aaaa), tu promedio de notas o la escala de notas de tu universidad (xx de yy). Enumera todas las clases de ciencias de la computación relevantes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Habilidades técnicas:&lt;/strong&gt; Lista de lenguajes de programación y tu nivel de habilidad en cada uno, sistemas operativos y/o dispositivos con los que hayas trabajado, habilidades de IT, habilidades de hardware/redes, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Experiencia Laboral:&lt;/strong&gt; Debes armar una lista con toda tu experiencia laboral relevante (empresa, titulo, fechas de empleo). Utiliza viñetas para describir cada trabajo. Cuentanos que tecnolologias utilizaste, utiliza cifras para resaltar tu impacto en un proyecto (por ej., creé, diseñé, depuré, probé).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Actividades extra curriculares:&lt;/strong&gt; Cuéntanos en qué magnificas actividades extracurriculares participas (por ej., competiciones de programación, asistente de clase, desarrollo de aplicaciones, startup, etcétera).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nota: Para acumular y mejorar tu experiencia y habilidades, revisa nuestra Guía de desarrollo técnico: &lt;a href=&quot;http://goo.gl/0upgWr&quot;&gt;http://goo.gl/0upgWr&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Paso 2: Prepara tu certificado de notas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Enumera todas las clases en las que paticipaste y la nota que recibiste en cada una. Debes utilizar la escala de notas de tu universidad (por ej., 9.6/10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El informe debe estar en inglés (puedes traducirlo tu mismo)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No es necesario que sea una copia oficial de tu universidad&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Paso 3: Aplica en linea en google.com/careers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completa tu información de contacto&lt;/li&gt;
+&lt;li&gt;Sube tu curriculum en inglés&lt;/li&gt;
+&lt;li&gt;Completa la información sobre educación (escribe el nombre de tu universidad)&lt;/li&gt;
+&lt;li&gt;Sube tu informe de notas en inglés&lt;/li&gt;
+&lt;li&gt;Presiona “enviar”. Nota: No necesitas enviar una carta de presentación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Paso 4: Prepárate para la entrevista:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Es todo una cuestión de práctica. Práctica en una pizarra para las entrevistas presenciales y practica códigos en Google Doc para las entrevistas telefónicas. Pide a un amigo que te realice preguntas de entrevistas y practica problemas en:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visita nuestro Doc de preparación para entrevistas para ingeniería de software:&lt;/strong&gt; &lt;a href=&quot;http://goo.gl/AYGURP&quot;&gt;http://goo.gl/AYGURP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Portal en línea de entrevistas técnicas: &lt;a href=&quot;http://leetcode.com/&quot;&gt;http://leetcode.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“Programming Interviews Exposed”: &lt;a href=&quot;http://www.piexposed.com/&quot;&gt;http://www.piexposed.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“Cracking the Coding Interview”: &lt;a href=&quot;http://goo.gl/nBUkl&quot;&gt;http://goo.gl/nBUkl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5 preguntas esenciales para entrevistas técnicas: &lt;a href=&quot;http://goo.gl/L7mmH&quot;&gt;http://goo.gl/L7mmH&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Usa TopCoder &lt;a href=&quot;http://goo.gl/x3MSJ&quot;&gt;http://goo.gl/x3MSJ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recuerda que nos interesa LA FORMA en la que abordas la resolución de problemas. Debes &lt;strong&gt;pensar en voz alta y realizar preguntas.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Queremos ver tus habilidades de codificación. Puedes elegir el lenguaje programación con el que te sientas mas comodo, pero generalmente utilizamos Java, Python, C++.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¡Intenta relajarte y pensar en tu entrevistador como en alguien que desea ayudarte y verte tener exíto!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Tipos de datos y operaciones Bitwise]]></title><description><![CDATA[Aunque los conceptos mencionados en este módulo sean básicos estas lecciones están enfocadas a personas que tengan un conocimiento previo en…]]></description><link>https://in-silico.github.io//operaciones-bitwise/</link><guid isPermaLink="false">https://in-silico.github.io//operaciones-bitwise/</guid><content:encoded>&lt;p&gt;Aunque los conceptos mencionados en este módulo sean básicos estas lecciones están enfocadas a personas que tengan un conocimiento previo en programación y estén familiarizadas con la sintaxis de C++.&lt;/p&gt;
+&lt;h1&gt;Lección I: “Tipos de datos en C++ y Operaciones Bitwise”&lt;/h1&gt;
+&lt;p&gt;Este apartado estará enfocado en los tipos de datos que soporta C++, incluyendo la capacidad de cada uno de estos tipos y además las operaciones a nivel de bits (operaciones bitwise) que soportan algunos de ellos más comúnmente conocidos como máscaras de bits.&lt;/p&gt;
+&lt;h2&gt;Tipos de datos:&lt;/h2&gt;
+&lt;p&gt;Si bien es cierto que la capacidad de los datos depende en gran parte del compilador que usemos, podemos fijar un estándar suponiendo que usamos el compilador más común hoy por hoy. La familia de compiladores de GNU/G++ con el estándar del 2011 el cual ya viene incluido por defecto en los sistemas operativos tipo UNIX como lo son Linux y MacOS, ampliamente conocidos.&lt;/p&gt;
+&lt;center&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Nombre&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Bits&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Dominio&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;char&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;8&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Caracteres ASCII&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;short&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;16&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;-(2^16-1) &amp;#x3C;= x &amp;#x3C;= 2^16-1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unsigned short&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;16&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;0 &amp;#x3C;= x &amp;#x3C;= 2^16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;int&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;32&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;-(2^32-1) &amp;#x3C;= x &amp;#x3C;= 2^32-1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unsigned int&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;32&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;0 &amp;#x3C;= x &amp;#x3C;= 2^32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;long long&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;64&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;-(2^64-1) &amp;#x3C;= x &amp;#x3C;= 2^64-1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;unsigned long long&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;64&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;0 &amp;#x3C;= x &amp;#x3C;= 264&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;double&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;64&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;2.23
+*
+10^-308 &amp;#x3C;= x &amp;#x3C;= 1.79
+*
+10^308&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;long double&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;80&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;3.37
+*
+10^-4932 &amp;#x3C;= x &amp;#x3C;= 1.18
+*
+10^4932&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
+&lt;/br&gt;
+&lt;p&gt;Algunos tipos de datos se obviaron como los booleanos y los flotantes no se mencionaron debido a su falta de precisión.&lt;/p&gt;
+&lt;h2&gt;Máscaras de bits:&lt;/h2&gt;
+&lt;p&gt;Se conoce como máscaras de bits a los tipos de datos enteros como son short, int, y long long tanto los signed como los unsigned, ya que estos datos soportan operaciones a nivel de bits de manera eficiente. Podemos definir las operaciones bitwise como operar directamente sobre la representación binaria de los datos que almacenan nuestras variables de tipo entero sean cualquiera de los tres tipos mencionados anteriormente.&lt;/p&gt;
+&lt;p&gt;Por ejemplo podemos definir el siguiente dato.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;c&quot;&gt;
+      &lt;pre class=&quot;language-c&quot;&gt;&lt;code class=&quot;language-c&quot;&gt;int a = 3;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Nuestra variable “a” será representada en memoria como&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;asm&quot;&gt;
+      &lt;pre class=&quot;language-asm&quot;&gt;&lt;code class=&quot;language-asm&quot;&gt;00000000000000000000000000000011&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Las operaciones bitwise que nos ofrece C++ sobre este tipo de datos son las siguientes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Negación y corrimientos:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(a&amp;lt;&amp;lt;i) = 00000000000000000000000000000110&lt;/code&gt;, esta operación equivale a multiplicar nuestro número por &lt;code class=&quot;language-text&quot;&gt;2^i&lt;/code&gt; donde i es igual a la cantidad de desplazamientos hacia la izquierda que hagamos, para este caso en particular nuestro i fue igual a 1.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(a&amp;gt;&amp;gt;i) = 00000000000000000000000000000001&lt;/code&gt;, esta operación equivale a dividir nuestro número entre &lt;code class=&quot;language-text&quot;&gt;2^i&lt;/code&gt; donde i es igual a la cantidad de desplazamientos hacia la derecha que hagamos, para este caso en particular nuestro i fue igual a 1.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;~(a) = 11111111111111111111111111111100&lt;/code&gt; , niega los bits de nuestro número.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operaciones bitwise entre dos máscaras de bits de igual tamaño!!! (recomendado):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(a &amp;amp; b):&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    a    -&amp;gt; 00000000000000000000000000000011
+    b    -&amp;gt; 00000000000000000000000000000010
+--------------------------------------------
+    (a &amp;amp; b) -&amp;gt; 00000000000000000000000000000010&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(a | b):&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    a    -&amp;gt; 00000000000000000000000000000011
+    b    -&amp;gt; 00000000000000000000000000000010
+--------------------------------------------
+    (a | b) -&amp;gt; 00000000000000000000000000000011&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(a ^ b):&lt;/code&gt; xor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    a    -&amp;gt; 00000000000000000000000000000011
+    b    -&amp;gt; 00000000000000000000000000000010
+--------------------------------------------
+    (a ^ b) -&amp;gt; 00000000000000000000000000000001&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manipulando máscaras de bits:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Encender el j-th bit usando la operación OR (|) &lt;code class=&quot;language-text&quot;&gt;S |= (1 &amp;lt;&amp;lt; j)&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 34 (base 10) = 100010 (base 2)
+j = 3, 1 &amp;lt;&amp;lt; j    = 001000 &amp;lt;- 1 desplazado 3 posiciones izq
+                    ------ OR
+S = 42 (base 10) = 101010 (base 2) // 42 nuevo valor de S&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;
+&lt;p&gt;Chequear si el j-th bit está encendido usando la operación AND (&amp;#x26;) &lt;code class=&quot;language-text&quot;&gt;T = S &amp;amp; (1 &amp;lt;&amp;lt; j)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Si T = 0 entonces el j-th bit está apagado&lt;/p&gt;
+&lt;p&gt;Si T != 0 entonces el j-th bit está encendido&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 42 (base 10) = 101010 (base 2)
+j = 3, (1 &amp;lt;&amp;lt; j)  = 001000 &amp;lt;- 1 desplazado 3 posiciones izq
+                   ------ AND
+T = 8 (base 10)  = 001000 (base 2) -&amp;gt; no cero, el 3rd bit está encendido.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 42 (base 10) = 101010 (base 2)
+j = 2, (1 &amp;lt;&amp;lt; j)  = 000100 &amp;lt;- 1 desplazado 2 posiciones izq
+                   ------ AND
+T = 8 (base 10)  = 000000 (base 2) -&amp;gt; cero, el 2rd bit está apagado.&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Apagar el j-th bit usando la operación AND (&amp;#x26;) &lt;code class=&quot;language-text&quot;&gt;S &amp;amp;= ~(1 &amp;lt;&amp;lt; j)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 42 (base 10) = 101010 (base 2)
+j = 1, ~(1 &amp;lt;&amp;lt; j) = 111101 &amp;lt;- ~ operación bitwise NOT
+                   ------ AND
+S = 40 (base 10) = 101000 (base 2) // 40 nuevo valor de S&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Hacer un toggle sobre el j-th bit usando la operación XOR (^) &lt;code class=&quot;language-text&quot;&gt;S ^= (1 &amp;lt;&amp;lt; j)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 40 (base 10) = 101000 (base 2)
+j = 2, (1 &amp;lt;&amp;lt; j)  = 000100 &amp;lt;- 1 desplazado 2 posiciones izq
+                   ------ XOR
+S = 44 (base 10) = 101100 (base 2) // 44 nuevo valor de S&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S = 40 (base 10) = 101000 (base 2)
+j = 3, (1 &amp;lt;&amp;lt; j)  = 001000 &amp;lt;- 1 desplazado 3 posiciones izq
+                   ------ XOR
+S = 32 (base 10) = 100000 (base 2) // 32 nuevo valor de S&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;Obtener el valor del bit menos significativo LSB (least significant bit) o el primer bit encendido al lado derecho usaremos la siguiente operación bitwise &lt;code class=&quot;language-text&quot;&gt;T = (S &amp;amp; (-S))&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt; S =  40 (base 10) = 000...000101000 (32 bits, base 2)
+-S = -40 (base 10) = 111...111011000 (complemento A2)
+                     --------------- AND
+ T =  8  (base 10) = 000...000001000 // el tercer bit es el primer bit que está encendido por la derecha&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;Encender n bits, para esto usamos &lt;code class=&quot;language-text&quot;&gt;S = (1 &amp;lt;&amp;lt; n) - 1&lt;/code&gt; tener cuidado puede ocasionar un overflow si no tenemos en cuenta la talla de nuestra máscara de bits.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ejemplo para n = 3&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S + 1 = 8 (base 10) = 1000 &amp;lt;- 1 desplazado 3 posiciones izq
+                         1
+                      ---- -
+S     = 7 (base 10) =  111 (base 2)&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;Ejemplo para n = 5&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S + 1 = 32 (base 10) = 100000 &amp;lt;- 1 desplazado 5 veces izq
+                            1
+                       ------ -
+S     = 31 (base 10) =  11111 (base 2)&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;Multiplicación y división de manera eficiente a base de corrimientos&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;S                  = 34 (base 10) =  100010 (base 2)
+S = S &amp;lt;&amp;lt; 1 = S * 2 = 68 (base 10) = 1000100 (base 2)
+S = S &amp;gt;&amp;gt; 2 = S / 4 = 17 (base 10) =   10001 (base 2)
+S = S &amp;gt;&amp;gt; 1 = S / 2 = 8  (base 10) =    1000 (base 2) &amp;lt;- LSB&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Ejercicios de practica&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://coj.uci.cu/24h/problem.xhtml?pid=3796&quot;&gt;Coding Exercise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://coj.uci.cu/24h/problem.xhtml?pid=3804&quot;&gt;Rotations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.urionlinejudge.com.br/judge/es/problems/view/1026&quot;&gt;Acarrear o no acarrear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
